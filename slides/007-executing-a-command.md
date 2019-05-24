@@ -5,8 +5,12 @@ notes: |
   In this case you don't use http:// or anything in front of the website name
 
   The `ping` command takes in a url which can be different anytime the program is run and is free to user choice. A text or number that is used in combination with a command is called a **parameter**. During the workshop we will learn about more commands that take in parameters for running their respective program.
+
+  if ping is going on forever in your terminal (it will be different for some of you depending on if you're on windows) then you can run `Control - c` to cancel.
+
+  you can see these command on step 5 of the training buddy app
 ---
 
-### Executing a command
+### Example command - ping
 
-<video autoplay loop muted playsinline src="/images/ping.webm"></video>
+<video controls autoplay loop muted playsinline src="/images/ping.webm"></video>
