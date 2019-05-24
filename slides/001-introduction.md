@@ -26,7 +26,3 @@ https://emberginners-install-slides.netlify.com/
 Training buddy:
 <br>
 https://emberginners-install.netlify.com/
-<br>
-Chat Server:
-<br>
-https://discord.gg/WBzTcb
